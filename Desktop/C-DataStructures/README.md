@@ -7,11 +7,11 @@
 | # | 主題 | 狀態 |
 |---|------|------|
 | 01 | Array 陣列 | ✅ |
-| 02 | Linked List 鏈結串列 | 🔜 |
-| 03 | Stack 堆疊 | 🔜 |
-| 04 | Queue 佇列 | 🔜 |
-| 05 | Binary Tree 二元樹 | 🔜 |
-| 06 | Hash Table 雜湊表 | 🔜 |
+| 02 | Linked List 鏈結串列 | ✅ |
+| 03 | Stack 堆疊 | ✅ |
+| 04 | Queue 佇列 | ✅ |
+| 05 | Binary Tree 二元樹 | ✅ |
+| 06 | Hash Table 雜湊表 | ✅ |
 
 ## 編譯與執行
 
